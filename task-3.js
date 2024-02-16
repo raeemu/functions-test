@@ -2,6 +2,6 @@
 
 const numbers = [5, 12, 8, 130, 44];
 
-const filtered = coll.filter((number) => number > 10);
+const filtered = numbers.filter((number) => number > 10);
 
 console.log(filtered);
